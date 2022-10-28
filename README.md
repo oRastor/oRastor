@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Orest.
 - 👀 I’m interested in Football, FIFA 23, Sports predictions, Armed Forces of Ukraine.
-- 🌱 I’m currently learning Python, ML.
+- 🌱 I’m currently learning Python, Go, ML.
 - 📫 You can reach me via email doom4eg@gmail.com or telegram @orastor
 
 <!---
